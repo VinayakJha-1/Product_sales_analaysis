@@ -91,40 +91,47 @@ Buisness Model Canvas was used to understand the Zee -5 structure
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
-		
-	    <h3> Heat Map </h3>
+
+<h3> Heat Map </h3>
+	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
 
+
 <h3> BCG Matrix </h3>
+	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+
 	   
 		
 <h3> Petal Analays</h3>
- 
+	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+
 
 <h3> SWOT </h3>
-
+Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+
 
 <h3> Pricing Pyramid </h3>
-
+Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+
 
 
 Buisness model canvas helped in understanding the key
