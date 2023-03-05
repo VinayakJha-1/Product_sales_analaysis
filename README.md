@@ -4,7 +4,6 @@
 <html>
 <head>
   <!--
-  <style>
 <style>
 		body {
 			font-family: Arial, sans-serif;
@@ -52,8 +51,6 @@
   
   </style>
   -->
-</head>
-
 </head>
 <body>
 	<header>
