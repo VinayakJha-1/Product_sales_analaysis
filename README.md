@@ -131,7 +131,27 @@ Buisness Model Canvas was used to understand the Zee -5 structure
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1" download>
         Download
+	
+<h3> Porter Five Forces </h3>
+Buisness Model Canvas was used to understand the Zee -5 structure 
+	<img src="https://drive.google.com/uc?export=view&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF">
+    <br>
+    <a href="https://drive.google.com/uc?export=download&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF" download>
+        Download
+	    
+<h3> Porter Five Forces </h3>
+Buisness Model Canvas was used to understand the Zee -5 structure 
+	<img src="https://drive.google.com/uc?export=view&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF">
+    <br>
+    <a href="https://drive.google.com/uc?export=download&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF" download>
+        Download	
 
+<h3> Petal Analysis </h3>
+Buisness Model Canvas was used to understand the Zee -5 structure 
+	<img src="https://drive.google.com/uc?export=view&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcAF">
+    <br>
+    <a href="https://drive.google.com/uc?export=download&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA" download>
+        Download	
 
 <h3> Pricing Pyramid </h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
