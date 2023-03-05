@@ -190,23 +190,6 @@
 <li>  To determine.</li>
 </ul> 
   	   
-		
-<h3> Petal Analays</h3>
-<h4>Reason for doing</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine </li> 
-	<img src="https://drive.google.com/uc?export=view&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA">
-    <br>
-    <a href="https://drive.google.com/uc?export=download&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA" download>
-        Download	
-	
-<h4>Key learnings</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine.</li>
-</ul> 
-
 
 <h3> SWOT </h3>
 <h4>Reason for doing</h4>
