@@ -5,12 +5,36 @@
 <head>
   <!--
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
+<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+		h1 {
+			text-align: center;
+			color: #1a1a1a;
+			margin-top: 50px;
+		}
+		h2 {
+			color: #1a1a1a;
+			margin-top: 30px;
+		}
+		p {
+			color: #4d4d4d;
+			font-size: 18px;
+			line-height: 1.5;
+			margin-top: 20px;
+		}
+		ul {
+			margin-top: 20px;
+			margin-left: 30px;
+		}
+		li {
+			color: #4d4d4d;
+			font-size: 18px;
+			line-height: 1.5;
+		}
+
   
     header {
       background-color: #0072C6;
@@ -26,11 +50,6 @@
 			border-radius: 3px;
 		}
   
-    h1 {
-      font-size: 36px;
-      margin: 0;
-      line-height: 1.2;
-    }
   </style>
   -->
 </head>
@@ -232,9 +251,18 @@ Buisness Model Canvas was used to understand the Zee -5 structure
     <a href="https://drive.google.com/uc?export=download&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU" download>
         Download
 
-
-
-
-
-Buisness model canvas helped in understanding the key
-
+<h1>Zee's Segmentation Strategy</h1>
+	<h2>Creating robust user categories</h2>
+	<p>We propose dividing Zee's user base into three categories:</p>
+	<ul>
+		<li>Youth - Focused on series like Tripling, sports content, and small series that cater to the younger audience.</li>
+		<li>Home - Targeted towards families who prefer watching popular Hindi movies, television shows, and a few new buzz movies such as Rocket Rashmi.</li>
+		<li>Regional - Focused on daily soap operas and medium-sized blockbusters, catering to customers who prefer regional content.</li>
+	</ul>
+	<p>This segmentation strategy will reduce acquisition costs from competition for Hollywood and new Bollywood movies and improve customer engagement and loyalty.</p>
+	<h2>Strengthening early market niche</h2>
+	<p>We have identified that Zee has now crossed the tornado stage of lifecycle and thus focusing on the early majority and channelizing content for a niche audience would be more effective. This approach will allow to better serve the needs of specific customer segments, attract new customers, and create a competitive advantage in the market. We recommend focusing on two specific product teams including user research and data analytics for further growth.</p>
+	<h2>Pricing “For the user”</h2>
+	<p>Niche can be priced separately. Youth can be provided with student discounts and language content can be improved and separately priced across regions to capitalize on the market share in regional spaces.</p>
+	<h2>Flexible organizational structure</h2>
+	<p>We recommend that Zee adopts a pod and tribe level organizational structure to increase agility, foster cross-functional collaboration, and promote innovation. This structure will reduce the current problems with the hierarchical structure and allow teams to work towards specific outcomes and goals.</p>
