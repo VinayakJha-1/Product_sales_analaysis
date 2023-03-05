@@ -85,27 +85,29 @@ Buisness Model Canvas was used to understand the Zee -5 structure
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+	
+
+
+<h3> Market Research  </h3>
+	<img src="https://drive.google.com/uc?export=view&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU">
+
 
 <h3> Value Canvas </h3>
-	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
+	<img src="https://drive.google.com/uc?export=view&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq">
     <br>
-    <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
+    <a href="https://drive.google.com/uc?export=download&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq" download>
         Download
 
 <h3> Heat Map </h3>
 	Buisness Model Canvas was used to understand the Zee -5 structure 
-	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
-    <br>
-    <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
-        Download
+	<img src="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA">
+    
 
 
 <h3> BCG Matrix </h3>
 	Buisness Model Canvas was used to understand the Zee -5 structure 
-	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
-    <br>
-    <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
-        Download
+	<img src="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df">
+   
 
 	   
 		
@@ -127,10 +129,16 @@ Buisness Model Canvas was used to understand the Zee -5 structure
 
 <h3> Pricing Pyramid </h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
-	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
+	<img src="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1">
+
+
+<h3> Product Lifecycle  </h3>
+	<img src="https://drive.google.com/uc?export=view&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU">
     <br>
-    <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
+    <a href="https://drive.google.com/uc?export=download&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU" download>
         Download
+
+
 
 
 
