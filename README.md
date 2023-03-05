@@ -104,12 +104,12 @@
 <li> To identify. </li>
 <li>  To determine </li>
  </ul> 
-
-		
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
+	
+	
 <h4>Key learnings</h4>
 <ul>
 <li> To identify </li>
@@ -145,7 +145,9 @@
 	<img src="https://drive.google.com/uc?export=view&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq" download>
-        Download	
+        Download
+	
+	
 <h4>Key learnings</h4>
 <ul>
 <li> To identify </li>
@@ -163,6 +165,7 @@
 <br>
  <a href="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA" download>
    Download
+     
 <h4>Key learnings</h4>
 <ul>
 <li> To identify </li>
@@ -180,6 +183,7 @@
 	<br>
    	 <a href="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df" download >
 	 Download
+	 
 <h4>Key learnings</h4>
 <ul>
 <li> To identify </li>
@@ -191,8 +195,11 @@
 <h4>Reason for doing</h4>
 <ul>
 <li> To identify </li>
-<li>  To determine </li>
-	Buisness Model Canvas was used to understand the Zee -5 structure 
+<li>  To determine </li> 
+	<img src="https://drive.google.com/uc?export=view&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA">
+    <br>
+    <a href="https://drive.google.com/uc?export=download&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA" download>
+        Download	
 	
 <h4>Key learnings</h4>
 <ul>
@@ -208,9 +215,9 @@
 <li>  To determine </li>
 
 Buisness Model Canvas was used to understand the Zee -5 structure 
-	<img src="https://drive.google.com/uc?export=view&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcAF">
+	<img src="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1">
     <br>
-    <a href="https://drive.google.com/uc?export=download&id=1jCQquUE6-XeUUTDBiYKZefNc4gY96FcA" download>
+    <a href="https://drive.google.com/uc?export=download&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1" download>
         Download	
 
 <h4>Key learnings</h4>
