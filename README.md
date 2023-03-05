@@ -79,10 +79,20 @@
 
 <h2> Frameworks and their usage </h2>
 
-
+<h3> Buisness Model Canvas</h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
 
+<h3> Value Canvas </h3>
+		
+<h3> Heat Map </h3>
 
+<h3> BCG Matrix </h3>
+		
+<h3> Petal Analays</h3>
+
+<h3> SWOT </h3>
+
+<h3> Pricing Pyramid </h3>
 
 
 Buisness model canvas helped in understanding the key
