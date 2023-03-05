@@ -39,12 +39,12 @@
 <body>
 	<header>
 		<h1>Zee-5 Product Management Apprenticeship</h1>
-    <h3> 	June, 2022</h3>
+    <h3> 	Nov, 2022</h3>
 	</header>
 	<div class="container">
 		<h2>Summary</h2>
 
-<p>this product management analysis, we examined ZEE-5's current business model and provided valuable suggestions to solve their problems. Our primary focus was on optimizing their organizational structure, pricing strategy, and enhancing the user experience. To achieve this, we used frameworks such as Value Canvas, Petal Competitive Analysis, and Porter Five Forces.</p>
+<p> In this product management analysis, we examined ZEE-5's current business model and provided valuable suggestions to solve their problems. Our primary focus was on optimizing their organizational structure, pricing strategy, and enhancing the user experience. To achieve this, we used frameworks such as Value Canvas, Petal Competitive Analysis, and Porter Five Forces.</p>
 
 <h3>  Zee in Brief </h3>
 	<h4>Customer Bas </h4>
@@ -61,7 +61,7 @@
 <li> 31% Increased CAGR from FY21</li>
 </ul>
 
-	<h4>In buzz</h4>
+<h4>In buzz</h4>
 <ul>
 <li>  Rocket Rashmi - Women empowerment through sports</li>
 <li>  Kashmiri Files - Mid sized film Rs 250 Crore</li>
