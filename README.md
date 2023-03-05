@@ -81,7 +81,7 @@
 
 <h3> Buisness Model Canvas</h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
-https://drive.google.com/file/d/1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt/view?usp=sharing
+   <img src="https://www.googledrive.com/host/[1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt]" alt="whatever">
 </body>
 
 <h3> Value Canvas </h3>
