@@ -90,7 +90,7 @@ Buisness Model Canvas was used to understand the Zee -5 structure
 
 <h3> Market Research  </h3>
 	<img src="https://drive.google.com/uc?export=view&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU">
-	     <br>
+   <br>
     <a href="https://drive.google.com/uc?export=view&id=1QupIJ6vo7hSeXE2vmUDxEB1CdVwwKuoU" download>
         Download
 
@@ -104,34 +104,42 @@ Buisness Model Canvas was used to understand the Zee -5 structure
 <h3> Heat Map </h3>
 	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA">
-    
+	 <br>
+	  <a href="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA" download>
+        Download
 
+ 
 
 <h3> BCG Matrix </h3>
 	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df">
-   
-
-	   
+	<br>
+   	 <a href="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df" download >
+	 Download
+  	   
 		
 <h3> Petal Analays</h3>
 	Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
-    <a href="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" >
+	<br>
+   	 <a href="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download >
+	 Download
 
 
 <h3> SWOT </h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
-	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
+	<img src="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1">
     <br>
-    <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
+    <a href="https://drive.google.com/uc?export=download&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1" download>
         Download
 
 
 <h3> Pricing Pyramid </h3>
 Buisness Model Canvas was used to understand the Zee -5 structure 
 	<img src="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1">
-	  <a href="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1">
+     <br>
+       <a href="https://drive.google.com/uc?export=view&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1" download>
+		   Download
 
 
 <h3> Product Lifecycle  </h3>
