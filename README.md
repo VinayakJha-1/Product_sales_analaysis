@@ -112,11 +112,11 @@
 	        
 	
 <h3> Market Research  </h3>
-<h4>Reason for doing</h4>
+<p> Zee-5 offers a wide range of content including movies, TV shows, and original web series, and generates revenue through subscription fees and advertising. </p>
 <ul>
-<li> To identify </li>
-<li>  To determine </li>
- </ul> 
+<li> The Total Available Market (TAM) for Zee-5 would be the total number of internet users in India, since Zee-5 is primarily targeted towards the Indian market.</li> <li>The Serviceable Available Market (SAM) would be a subset of the TAM, consisting of internet users who have access to digital entertainment platforms and are willing to pay for subscription services.</li>
+<li>The Serviceable Obtainable Market (SOM) would be an even smaller subset of the SAM, consisting of those who are actually using Zee-5's platform or have the potential to switch to it. Further analysis would be required to accurately determine these market sizes.</li>
+<ul>
 	<img src="https://drive.google.com/uc?export=view&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I" download>
