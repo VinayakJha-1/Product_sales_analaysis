@@ -97,8 +97,7 @@
 <h2> Frameworks and their usage </h2>
 
 <h3> Buisness Model Canvas</h3>
-<h4>Reason for doing</h4>
-<p> We analyzed the resources and capabilities of Zee-5 and how they are leveraging these resources to create value for the customers and stakeholders.</p>
+<p> We analyzed the resources and capabilities of Zee-5 and how they are leveraging these resources to create value for their customers and stakeholders.</p>
 	<img src="https://drive.google.com/uc?export=view&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
