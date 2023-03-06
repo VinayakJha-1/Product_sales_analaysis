@@ -151,10 +151,10 @@
 
 
 <h3> Heat Map </h3>
-<h4>Reason for doing</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine </li>	    
+<p> By using the heatmap, we identified the areas companies are dedicating the most resources and attention, as well as any areas that may be underinvested or require additional attention. This help us to prioritize and ensure that they are focused on the areas that are most critical to their product's success. </p>
+
+Overall, the ISPMA software product management heatmap helped us to gain insights into their product management activities and make data-driven decisions about where to focus their efforts.	   
+	    
 <img src="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA">
 <br>
  <a href="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA" download>
