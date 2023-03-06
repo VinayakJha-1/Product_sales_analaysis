@@ -131,11 +131,17 @@
 
 
 <h3> Value Canvas </h3>
-<h4>Reason for doing</h4>
+<p> The value canvas helped you identify the problems that Zee-5 is trying to solve and the value that it provides to your customers.
+	
 <ul>
-<li> To identify </li>
-<li>  To determine </li>
- </ul> 
+	<li> <b> Customer Jobs:</b> This refers to the tasks, problems, and needs that Zee-5 is trying to solve with your product or service.</li>
+	<li> <b> Pains:</b> These are the customers problems face while using your product or service.</li>
+	<li> <b> Gains:</b> These are the positive outcomes, benefits from using your product or service.</li>
+	<li> <b> Products and Services: </b> This refers to the features, attributes, and solutions that your product or service provides to your customers.
+</ul>
+
+<p> By understanding these four elements, we identified the value that it provides to our customers. </p>
+	    
 	<img src="https://drive.google.com/uc?export=view&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq" download>
