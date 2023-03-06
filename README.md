@@ -116,7 +116,7 @@
 <ul>
 <li> The Total Available Market (TAM) for Zee-5 is the total number of internet users in India, since Zee-5 is primarily targeted towards the Indian market.</li> <li>The Serviceable Available Market (SAM) would be a subset of the TAM, consisting of internet users who have access to digital entertainment platforms and are willing to pay for subscription services.</li>
 <li>The Serviceable Obtainable Market (SOM) consists of those who are actually using Zee-5's platform or have the potential to switch to it. </li>
-<ul>
+</ul>
 	<img src="https://drive.google.com/uc?export=view&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I" download>
@@ -131,7 +131,7 @@
 
 
 <h3> Value Canvas </h3>
-<p> The value canvas helped you identify the problems that Zee-5 is trying to solve and the value that it provides to your customers.
+<p> The value canvas helped you identify the problems that Zee-5 is trying to solve and the value that it provides to your customers.</p>
 	
 <ul>
 	<li> <b> Customer Jobs:</b> This refers to the tasks, problems, and needs that Zee-5 is trying to solve with your product or service.</li>
