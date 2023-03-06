@@ -141,12 +141,11 @@
 </ul>
 
 <p> By understanding these four elements, we identified the value that it provides to our customers. </p>
-	    
-	<img src="https://drive.google.com/uc?export=view&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq">
+	
+<img src="https://drive.google.com/uc?export=view&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1D-jXwW3Ru2su6L8DQjg4qtoSGvKHXznq" download>
         Download
-	
 	
 <h4>Key learnings</h4>
 <ul>
