@@ -164,30 +164,24 @@ Overall, the ISPMA software product management heatmap helped us to gain insight
 <br>
  <a href="https://drive.google.com/uc?export=view&id=1AHM8pCZH9Dk_0uLUjz-AlZ4Jp3HwZJBA" download>
    Download
-     
-<h4>Key learnings</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine.</li>
-</ul> 
 
- 
 
 <h3> BCG Matrix </h3>
-<h4>Reason for doing</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine </li>
+<p> The BCG matrix was a tool used to analyze a company's product portfolio and identify which products are performing well and which ones need investment or divestment. 
+	<li> <b>Question mark </b> - NFT, Metaverse, GPT tech-based stuff as a side revenue source: Zee innovationa and emerging technologies lab have the potential to create new revenue streams for Zee 5, but they are still in the early stages of development and market acceptance. Therefore, they are currently considered a question mark in the BCG matrix. </li>
+
+<li> <b> Star </b>  - Sports which is growing OTT market: Sports is a popular category among viewers and has been growing rapidly in the OTT market. Zee 5 has already established a strong presence in this category with its live sports(2023 - T20 CUP) streaming and related content. </li>
+
+<li> <b> Dogs </b> - Advertisement in Smart TV when compared with ZEE enterprise: Advertising on TV is a mature market with high competition, and Zee 5 is not a significant player in this category when compared to the overall Zee enterprise. Therefore, it can be considered a dog in the BCG matrix.
+
+<li> <b> Cash cow  </b> - Subscription-based platform: Zee 5's primary revenue stream comes from its subscription-based platform, which has a loyal customer base and generates consistent revenue. Therefore, it can be considered a cash cow in the BCG matrix.
+</ul>
 	<img src="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df">
 	<br>
    	 <a href="https://drive.google.com/uc?export=view&id=1GHdQYMIWdKmzBfeP0ZjQ6QPY5xfIz2Df" download >
 	 Download
 	 
-<h4>Key learnings</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine.</li>
-</ul> 
+
   	   
 
 <h3> SWOT </h3>
