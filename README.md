@@ -1,4 +1,4 @@
-![Bangalore to Jharkhand Migration](https://socialify.git.ci/VinayakJha-1/Product_sales_analaysis/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+![Bangalore to Jharkhand Migration](https://socialify.git.ci/VinayakJha-1/Zee-5 Product Apprenticeship/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 
 <!DOCTYPE html>
