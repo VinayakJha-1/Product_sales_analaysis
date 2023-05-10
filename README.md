@@ -209,7 +209,6 @@ Buisness Model Canvas was used to understand the Zee -5 structure
 	<img src="https://drive.google.com/uc?export=view&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF">
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1LUbYk2TrMlmR6WCzgSTrfW9xqmNwcIRF" download>
-        Download
 	    
 
 <h3> Petal Analysis </h3>
