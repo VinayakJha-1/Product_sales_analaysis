@@ -102,13 +102,6 @@
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1J4WWj0EOVURYxaFcbn74m-Kvv0N699wt" download>
         Download
-	
-	
-<h4>Key learnings</h4>
-<ul>
-<li> To identify </li>
-<li>  To determine.</li>
-</ul> 
 	        
 	
 <h3> Market Research  </h3>
