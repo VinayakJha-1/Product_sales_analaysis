@@ -171,7 +171,6 @@ Buisness Model Canvas was used to understand the Zee -5 structure
     <a href="https://drive.google.com/uc?export=download&id=1cZbMpnLQ09R3a_KKb0iMmXdIR1Q_d5i1" download>
         Download	
 
-<h4>Key learnings</h4>
 	
 <h3> Porter Five Forces </h3>
 <p> Rivalry among competitors is high in industries such as OTT, TV, gaming, news, and sports, with companies differentiating themselves through original content, robust distribution channels, and brand value. The threat of new entrants is low due to barriers to entry such as oligopoly economies of scale, high capital requirements, and experience in the market. The bargaining power of buyers is high due to a large user base, high price sensitivity, and low switching costs. The threat of substitute products or services is also high with many close to 40 OTT options available, poor customer loyalty, and medium perceived production differentiation. The bargaining power of suppliers is high due to few suppliers with large or medium size and unique content and actor space, high prices, and high switching costs.</p>
